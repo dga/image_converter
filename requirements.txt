@@ -1,0 +1,7 @@
+Package    Version
+---------- -------
+Pillow     6.2.0  
+pip        19.2.3 
+setuptools 41.4.0 
+tqdm       4.36.1 
+wheel      0.33.6 
